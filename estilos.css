@@ -1,0 +1,70 @@
+h2, h3, h4 {
+    color: rgb(46, 72, 160);
+}
+
+#body{
+    
+    background-image: url(https://cdn.vectorstock.com/i/preview-1x/95/18/abstract-white-background-with-blue-tech-vector-36759518.webp);  
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    
+
+}
+
+#logo{
+    background-color: white;
+    margin: 0 auto;
+    padding: 3% 5%;
+    border: solid 3px blue;
+    border-radius: 20px;
+    width: 30%;
+
+}
+
+#redes{
+    color: #180874;
+}
+
+nav{
+    background-color: #268A9A;
+    padding: 5px 5px;
+    
+}
+
+#nav-enlace{
+    text-align: center;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 30px;
+}
+
+#loginform{
+    margin: 0 auto;
+    padding: 3% 10%;
+    border: solid 3px blue;
+    border-radius: 20px;
+    width: 30%;
+    text-align: center;
+    
+}
+
+#logoregistro{
+    text-align: center;
+}
+
+#logomarcas{
+    text-align: center;
+}
+
+#tabla{
+    display: block;
+    text-align: center;
+    border-collapse: collapse;
+}
+th,td{
+    border: solid 2px blue;
+    text-align: center;
+    
+}
